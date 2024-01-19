@@ -1,2 +1,2 @@
-# lpu_java_b2_jan
+# JAVA_LPU_4thSEM
 Java With Mohit Sir
